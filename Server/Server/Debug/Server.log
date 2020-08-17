@@ -1,0 +1,4 @@
+﻿  Server.cpp
+c:\users\daniel\desktop\סמסטר ב שנה ב\תקשורת מחשבים\תרגיל 3\httpserver\server\server\server.cpp(60): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\daniel\desktop\סמסטר ב שנה ב\תקשורת מחשבים\תרגיל 3\httpserver\server\server\server.cpp(131): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  Server.vcxproj -> C:\Users\Daniel\Desktop\סמסטר ב שנה ב\תקשורת מחשבים\תרגיל 3\HTTPServer\Server\Debug\Server.exe
